@@ -1,11 +1,17 @@
 package com.ffs;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-        double dividendo = 20.0;
-        double divisor = 6.0;
-        double sumarAlFinal = 3.0;
-        System.out.println((dividendo/divisor)+sumarAlFinal);
+        int dividend = 20;
+        int divisor = 6;
+        int finalAddition = 3;
+        System.out.println((dividend / divisor) + finalAddition);
+
+        Scanner read = new Scanner(System.in);
+        float side = read.nextFloat();
+        System.out.println(side);
     }
 }
