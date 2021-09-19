@@ -10,8 +10,8 @@ public class Main {
         int finalAddition = 3;
         System.out.println((dividend / divisor) + finalAddition);
 
-        Scanner read = new Scanner(System.in);
-        float side = read.nextFloat();
+        Scanner reader = new Scanner(System.in);
+        float side = reader.nextFloat();
         System.out.println(side);
     }
 }
