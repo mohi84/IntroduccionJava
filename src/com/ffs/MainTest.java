@@ -11,9 +11,8 @@ class MainTest {
     @DisplayName("Hola Test")
     void hola() {
         assertEquals(2, 2);
-    }
-
-    @Test
-    void main() {
+        assertAll("Prueba Multiple",
+                () -> assertTrue(true),
+                () -> assertFalse(false));
     }
 }

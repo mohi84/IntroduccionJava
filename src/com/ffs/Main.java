@@ -15,5 +15,6 @@ public class Main {
         System.out.println(side);
 
         System.out.println("Otra prueba");
+        System.out.println("hola");
     }
 }
