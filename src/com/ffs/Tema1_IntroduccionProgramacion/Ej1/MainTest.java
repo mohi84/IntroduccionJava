@@ -1,4 +1,4 @@
-package com.ffs;
+package com.ffs.Tema1_IntroduccionProgramacion.Ej1;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
