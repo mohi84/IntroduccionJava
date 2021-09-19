@@ -13,5 +13,7 @@ public class Main {
         Scanner reader = new Scanner(System.in);
         float side = reader.nextFloat();
         System.out.println(side);
+
+        System.out.println("Otra prueba");
     }
 }
