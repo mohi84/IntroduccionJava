@@ -1,8 +1,8 @@
-package com.ffs.Tema1_IntroduccionProgramacion.Ej1;
+package IntroduccionProgramacion.Ej1_DivisionYSuma;
 
 import java.util.Scanner;
 
-public class Main {
+public class DivisionYSuma {
 
     public static void main(String[] args) {
         int dividend = 20;

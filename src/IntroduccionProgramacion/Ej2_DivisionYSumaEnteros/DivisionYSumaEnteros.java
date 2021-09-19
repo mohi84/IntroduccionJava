@@ -1,6 +1,6 @@
-package com.ffs.Tema1_IntroduccionProgramacion.Ej2;
+package IntroduccionProgramacion.Ej2_DivisionYSumaEnteros;
 
-public class Ej2Main {
+public class DivisionYSumaEnteros {
     public static void main(String[] args) {
         System.out.println("Otra prueba");
         System.out.println("hola");

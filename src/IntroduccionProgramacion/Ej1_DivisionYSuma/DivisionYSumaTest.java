@@ -1,15 +1,13 @@
-package com.ffs.Tema1_IntroduccionProgramacion.Ej1;
+package IntroduccionProgramacion.Ej1_DivisionYSuma;
 
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MainTest {
+class DivisionYSumaTest {
 
     @Test
-    @DisplayName("Hola Test")
-    void hola() {
+    void Sumar_DosEnterosPositivos_DevuelveEnteroPositivo() {
         assertEquals(2, 2);
         assertAll("Prueba Multiple",
                 () -> assertTrue(true),

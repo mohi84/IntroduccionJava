@@ -1,9 +1,9 @@
-package com.ffs.Tema1_IntroduccionProgramacion.Ej2;
+package IntroduccionProgramacion.Ej2_DivisionYSumaEnteros;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class Ej2MainTest {
+class DivisionYSumaEnterosTest {
 
     @Test
     void main() {
